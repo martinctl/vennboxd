@@ -1,0 +1,4 @@
+streamlit
+git+https://github.com/nmcassa/letterboxdpy.git
+requests
+python-dotenv

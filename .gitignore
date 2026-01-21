@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Whitelist specific files
+!app.py
+!utils.py
+!requirements.txt
+!Dockerfile
+!.gitignore
